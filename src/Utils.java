@@ -1,3 +1,5 @@
+package src;
+
 public class Utils {
 
     public static double Topla(double a,double b) {
